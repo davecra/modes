@@ -6,7 +6,7 @@ This script is provided to make it easy to setup your Office Development Envrion
 This supports the following platforms:
 * Windows platform
 
-NOTE: Other platform support is TBD.
+**NOTE**: Other platform support is TBD.
 
 ## Install on Windows
 To install, download the modes.ps1 to your desktop, right-click and select "Run in Powershell".
