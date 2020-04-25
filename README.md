@@ -1,4 +1,4 @@
-![MODES Logo, Office, VSCode and an M in a hexagon, overlapped](https://davecra.files.wordpress.com/2020/04/modes-1.png =400x400)
+![MODES Logo, Office, VSCode and an M in a hexagon, overlapped](https://davecra.files.wordpress.com/2020/04/modes-1.png=400x400)
 # The Microsoft Office Development Environment Script (MODES)
 This script is provided to make it easy to setup your Office Development Envrionment for Office Web Add-in Development (OfficeJS). If you are new to Office Web Add-in Development, this script will help you quickly install everything you need to get started.
 
