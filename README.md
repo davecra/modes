@@ -13,9 +13,9 @@ To install, download the modes.ps1 to your desktop, right-click and select "Run 
 
 If this does not work, try these steps:
 1) Make sure the modes.ps1 is on your desktop
-2) Press Windows+R, type "powershell" and press enter 
-3) Once in powershell, type "cd $env:USERPROFILE\desktop" and press enter
-4) Type ".\modes.ps1" and press enter
+2) Press Windows+R, type "powershell" (without the quotes) and press enter 
+3) Once in powershell, type "cd $env:USERPROFILE\desktop" (without the quotes) and press enter
+4) Type ".\modes.ps1" (without the quotes) and press enter
 5) When asked to run the script, type A and press enter
 
 **Important Note:** This repository is in-progress and the PowerShell script is not signed and may not run on your desktop.
