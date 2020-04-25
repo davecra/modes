@@ -1,4 +1,4 @@
-Add-Type -assembly “system.io.compression.filesystem”
+Add-Type -assembly â€œsystem.io.compression.filesystemâ€
 <# 
 =================================================================
 The Microsoft Office Development Environment Script (for Windows)
@@ -105,7 +105,7 @@ del $vscode_output
 del $node_output
 del $npm_Output
 $yo_file = $node_install_path + "\yo.ps1"
-ren $yo_file "yo.ps1.old" #breaks yo office if we do not delete it
+ren $yo_file "yo.ps1.old" #breaks yo office if we do not rename it
 #################
 # Complete
 Write-Host "The installation is complete."
