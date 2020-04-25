@@ -1,8 +1,8 @@
 Add-Type -assembly “system.io.compression.filesystem”
 <# 
-=================================================================
-The Microsoft Office Development Environment Script (for Windows)
-=================================================================
+================================================================
+The Microsoft Office Development Environment Setup (for Windows)
+================================================================
 
 This script will download and install all the tools needed to 
 be able to quickly get started developing OfficeJS Web Add-in 
@@ -29,9 +29,9 @@ Write-Host ""
 Write-Host ""
 Write-Host ""
 Write-Host ""
-Write-Host -ForegroundColor White -BackgroundColor DarkGreen "=================================================================
-The Microsoft Office Development Environment Script (for Windows)
-=================================================================" 
+Write-Host -ForegroundColor White -BackgroundColor DarkGreen "================================================================
+The Microsoft Office Development Environment Setup (for Windows)
+================================================================" 
 Write-Host ""
 Write-Host "Created by David E. Craig (davecra)" -ForegroundColor DarkYellow
 Write-Host "Visit: https://theofficecontext.com, or" -ForegroundColor DarkYellow
