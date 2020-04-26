@@ -1,4 +1,4 @@
-Add-Type -assembly “system.io.compression.filesystem”
+Add-Type -assembly "system.io.compression.filesystem"
 <# 
 ================================================================
 The Microsoft Office Development Environment Setup (for Windows)
